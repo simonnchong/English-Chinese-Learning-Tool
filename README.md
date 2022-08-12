@@ -7,7 +7,7 @@ the database, so the word won't be displayed again.  *PS: THE TRANSLATION IS POW
 
 ### How to run the program.
 #### 1. Clone the project or download it to your local machine.
-#### 2. Run the `main.py`, ensure you have `pyperclip` module installed.
+#### 2. Run the `main.py`.
 #### 3. That's it! Enjoy the program!
 
 <br>
