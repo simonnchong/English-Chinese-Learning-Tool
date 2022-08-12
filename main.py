@@ -35,7 +35,6 @@ def next_card():
         flip_card_button.config(state=DISABLED)
         right_button.config(state=DISABLED)
         
-
     
 def flip_card():
     canvas.itemconfig(card_color, image=back_image) # change to back card
